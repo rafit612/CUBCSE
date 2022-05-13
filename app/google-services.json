@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "915052464766",
+    "project_id": "cubcse",
+    "storage_bucket": "cubcse.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:915052464766:android:75d10df462ec2f0a72262f",
+        "android_client_info": {
+          "package_name": "com.cub.cse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "915052464766-b72c0n61cvlvtkkiaku6dmla4ar0jd5h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3CboWp4WPToW-jzFlesclJOgvU7MHPIo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "915052464766-b72c0n61cvlvtkkiaku6dmla4ar0jd5h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

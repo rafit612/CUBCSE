@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+        <item
+            android:id="@+id/nav_home"
+
+            android:title="Home" />
+
+
+    <item android:title="Contact">
+        <menu>
+            <item
+                android:id="@+id/nav_web"
+
+                android:title="Website" />
+            <item
+                android:id="@+id/nav_email"
+
+                android:title="Email" />
+            <item
+                android:id="@+id/nav_cs"
+
+                android:title="Support" />
+            <item
+                android:id="@+id/nav_facebook"
+
+                android:title="Facebook" />
+            <item
+                android:id="@+id/nav_Twitter"
+
+                android:title="Twitter" />
+            <item
+                android:id="@+id/nav_Instragram"
+
+                android:title="Instragram" />
+            <item
+                android:id="@+id/nav_messenger"
+
+                android:title="Messenger" />
+            <item
+                android:id="@+id/nav_whatsapp"
+
+                android:title="Whatsapp" />
+            <item
+                android:id="@+id/nav_youtube"
+
+                android:title="Youtube" />
+            <item
+                android:id="@+id/nav_video"
+
+                android:title="Video" />
+        </menu>
+    </item>
+    <item
+        android:id="@+id/About"
+        android:title="About Us" />
+    <item
+        android:id="@+id/store"
+        android:title="Campus Location" />
+</menu>
